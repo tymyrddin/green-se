@@ -62,5 +62,4 @@ search engines and their users.
 .. toctree::
    :caption: Links
 
-   Overview threat models <https://tymyrddin.github.io/threat-models/>
-   Attack trees <https://tymyrddin.github.io/attack-trees/>
+   Green Team <https://tymyrddin.github.io/green/>
