@@ -92,5 +92,6 @@ intersphinx_mapping = {
     "green": ("https://tymyrddin.github.io/green/", None),
     "green-da": ("https://tymyrddin.github.io/green-da/", None),
     "red-network": ("https://tymyrddin.github.io/red-network/", None),
+    "red-app": ("https://tymyrddin.github.io/red-app/", None),
 }
 myst_url_schemes = ["http", "https", ]

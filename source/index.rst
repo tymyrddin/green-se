@@ -63,3 +63,5 @@ search engines and their users.
    :caption: Links
 
    Green Team <https://tymyrddin.github.io/green/>
+   Network attacks <https://tymyrddin.github.io/red-network/>
+   Application hacking <https://tymyrddin.github.io/red-app/>
