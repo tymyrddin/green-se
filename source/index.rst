@@ -62,6 +62,6 @@ search engines and their users.
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
-   Network attacks <https://tymyrddin.github.io/red-network/>
-   Application hacking <https://tymyrddin.github.io/red-app/>
+   Green Team <https://green.tymyrddin.dev/>
+   Network attacks <https://red.tymyrddin.dev/projects/network/en/latest/>
+   Application hacking <https://red.tymyrddin.dev/projects/app/en/latest/>
