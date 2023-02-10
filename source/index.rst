@@ -1,8 +1,3 @@
-.. Search Engine Threat model documentation master file, created by
-   sphinx-quickstart on Fri Jun 17 22:43:13 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Search engine threat model
 ======================================================
 
@@ -10,6 +5,8 @@ Search engine threat model
 also be used to fool users for more nefarious purposes: Security and privacy and threats to searchers (users of a
 search engine), hence search engines themselves are also listed as adversary; and search rank spam and fraud threats to
 search engines and their users.
+
+----
 
 .. toctree::
    :glob:
@@ -58,10 +55,3 @@ search engines and their users.
    :caption: Impacts
 
    docs/impacts/*
-
-.. toctree::
-   :caption: Links
-
-   Green Team <https://green.tymyrddin.dev/>
-   Network attacks <https://red.tymyrddin.dev/projects/network/en/latest/>
-   Application hacking <https://red.tymyrddin.dev/projects/app/en/latest/>
